@@ -1,6 +1,4 @@
-# TruckHomeJavascriptStyleGuide
-
-## 卡车e族前端Javascript书写规范
+# 卡车e族前端Javascript书写规范
 
 
 * [01.类型](01.类型.md)
